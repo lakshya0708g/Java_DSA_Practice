@@ -1,35 +1,35 @@
 class Solution {
     public List<Integer> luckyNumbers(int[][] matrix) {
-        int N = matrix.length;
-        int M = matrix[0].length;
 
-        List<Integer> rm = new ArrayList<>();
-        for(int i = 0; i < N; i++){
-            int rmin = Integer.MAX_VALUE;
-            for(int j = 0; j < M; j++){
-                rmin = Math.min(rmin, matrix[i][j]);
-            }
-            rm.add(rmin);
-        }
+        List<Integer> list = new ArrayList<>();
 
-        List<Integer> cmx = new ArrayList<>();
-        for(int j = 0; j < M; j++){
-            int cmax = Integer.MIN_VALUE;
-            for(int i = 0; i < N; i++){
-                cmax = Math.max(cmax, matrix[i][j]);
-            }
-            cmx.add(cmax);
-        }
+        for (int row = 0; row < matrix.length; row++) {
 
-        List<Integer> lucky = new ArrayList<>();
-        for(int i = 0; i < N; i++){
-            for(int j = 0; j < M; j++){
-                if(matrix[i][j] == rm.get(i) && matrix[i][j] == cmx.get(j)){
-                    lucky.add(matrix[i][j]);
+            int min = matrix[row][0];
+            int column = 0;
+
+            for (int col = 1; col < matrix[row].length; col++) {
+
+                if (matrix[row][col] < min) {
+                    min = matrix[row][col];
+                    column = col;
                 }
             }
+
+            boolean Lucky = true;
+
+            for (int r = 0; r < matrix.length; r++) {
+                if (matrix[r][column] > min) {
+                    Lucky = false;
+                    break;
+                }
+            }
+
+            if (Lucky) {
+                list.add(min);
+            }
         }
 
-        return lucky;
+        return list;
     }
 }
