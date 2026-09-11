@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0125-valid-palindrome) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
