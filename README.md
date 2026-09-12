@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
+| [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -36,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
