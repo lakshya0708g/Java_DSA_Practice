@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 ## Quicksort
 |  |
 | ------- |
