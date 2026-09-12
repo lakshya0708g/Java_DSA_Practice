@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
