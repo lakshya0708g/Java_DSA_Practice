@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0709-to-lower-case](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0709-to-lower-case) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Math
 |  |
