@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -98,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
