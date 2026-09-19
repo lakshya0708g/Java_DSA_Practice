@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0709-to-lower-case) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1486-xor-operation-in-an-array) |
