@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1768-merge-strings-alternately) |
+| [2833-furthest-point-from-origin](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/2833-furthest-point-from-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2833-furthest-point-from-origin](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
