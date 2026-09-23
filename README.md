@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -100,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
