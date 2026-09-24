@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
