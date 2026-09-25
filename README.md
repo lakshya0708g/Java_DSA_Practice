@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
