@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0709-to-lower-case) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1768-merge-strings-alternately) |
@@ -117,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
