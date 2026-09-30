@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
