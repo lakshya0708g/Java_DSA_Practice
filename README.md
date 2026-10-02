@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshya0708g/Java_DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
